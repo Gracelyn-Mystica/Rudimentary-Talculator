@@ -1,4 +1,4 @@
-package com.internshala.javaalways;
+package java_repo;
 
 import java.util.Scanner;
 
