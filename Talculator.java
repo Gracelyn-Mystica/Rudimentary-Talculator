@@ -40,7 +40,7 @@ public class Talculator {
         else {
             long result1 = oldRegimeSlabCalc(age, TS1);
             long result2 = newRegimeSlabCalc(TS2);
-            System.out.println("Approximately your income tax will be around the range");
+            System.out.println("Your income tax amount will be approximately around the calculated range ");
             System.out.println("The income tax amount need to be paid " +
                     "according to the old regime is : "+result1);
             System.out.println("The income tax amount need to be paid " +
