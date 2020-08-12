@@ -1,5 +1,5 @@
 # Talculator - Rudimentary Tax Calculator
-Paying tax might not be the best part of the year for most of us and adding to it calculating the tax amount will probably be the worst part as half of us are unaware of the calculation process.
+Paying tax might not be the best part of the year for most of us and adding to it calculating the tax amount will probably be the worst part as half of us are unaware of the calculation process. This is when the talculator comes into picture.
 ## More about the App :
 - Using the talculator one can evaluate the approximate income tax amount one needs to pay within few seconds and all it requires is just a few basic details regarding your income per annum without any fear of your income details getting leaked out.
 - Once all the required details are entered then the app generates two outputs.
